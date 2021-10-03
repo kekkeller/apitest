@@ -2,13 +2,13 @@
     "success": true,
     "listMap": [{
         "is_active": "false",
-        "product_url": "https://www.notebooksbilliger.de/nvidia+geforce+rtx+3070+ti+founders+edition+3jd7+123",
+        "product_url": "https://www.notebooksbilliger.de/nvidia+geforce+rtx+3070+ti+founders+edition+3jd7+12312",
         "price": "619",
         "fe_sku": "NVGFT070T_DE",
         "locale": "DE"
     }, {
         "is_active": "false",
-        "product_url": "https://www.notebooksbilliger.de/nvidia/products/3080/1212",
+        "product_url": "https://www.notebooksbilliger.de/nvidia/products/3080/121122",
         "price": "649",
         "fe_sku": "NVGFT080_DE",
         "locale": "DE"
